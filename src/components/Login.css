@@ -1,0 +1,9 @@
+.loginform {
+    text-align: center;
+    padding: 50px;
+}
+.loginform input {
+    height: 25px;
+    width: 25em;
+    margin: 10px;
+}

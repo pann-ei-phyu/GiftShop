@@ -1,0 +1,9 @@
+.product {
+    text-align: center;
+    padding: 50px;
+}
+.product input, textarea {
+    height: 25px;
+    width: 25em;
+    margin: 10px;
+}
