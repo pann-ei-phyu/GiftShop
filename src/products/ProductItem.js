@@ -50,14 +50,7 @@ const ProductItem = props => {
                         <button onClick={deleteProduct}>Delete</button>
                 </div>
                 }
-            </div>
-
-
-
-
-
-                
-            
+            </div>            
         </div>
     )
 }
